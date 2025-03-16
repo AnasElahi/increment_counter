@@ -1,2 +1,2 @@
-Muhammad Anas Elahi
-BSSE-6th Semester
+Name = Muhammad Anas Elahi
+Semester = BSSE-6th
